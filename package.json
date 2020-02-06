@@ -1,0 +1,29 @@
+{
+  "name": "advance-api-router-class",
+  "version": "1.0.0",
+  "description": "introduction to using router class in advance api",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jendhordejan/codaisseur-week5-day3-AdvanceAPI-RouterClass.git"
+  },
+  "keywords": [
+    "advanceApi",
+    "routerClass",
+    "fullStack",
+    "npm",
+    "express"
+  ],
+  "author": "jdh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jendhordejan/codaisseur-week5-day3-AdvanceAPI-RouterClass/issues"
+  },
+  "homepage": "https://github.com/jendhordejan/codaisseur-week5-day3-AdvanceAPI-RouterClass#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
