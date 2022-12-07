@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/jendhordejan/codaisseur-week5-day3-AdvanceAPI-RouterClass#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
